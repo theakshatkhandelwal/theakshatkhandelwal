@@ -20,9 +20,7 @@ Aspiring to secure a dynamic role in IT as a software or web developer, where I 
 ### 📚 Education
 
 - **B.E. – Computer Science Engineering**, CMR Institute of Technology, Bangalore  
-  *8.46 CGPA (Pursuing, 2026)*  
-- **12th – Indian Convent School, Rajasthan** — *72.40%*  
-- **10th – Mount Egmont School, Hazaribagh** — *87.40%*  
+  *8.46 CGPA (Pursuing, 2026)*    
 
 ---
 
@@ -48,23 +46,6 @@ A full-stack web app for managing inventory, sales, and suppliers in an auto par
 - Top 60 out of 500+ teams in National Social Hackathon  
 - Top 25 out of 125 teams in GenAI Hackathon by HappyFox  
 - Top 60 shortlisted in Nokia recruitment process
-
----
-
-### 💡 Co-curricular Activities
-
-- **Courses**:  
-  - The Complete Python Developer – Udemy  
-  - The Front-End Web Developer Bootcamp – Udemy  
-
-- **Hackathons**:  
-  - Nokia Student Hackathon (2025)  
-  - GenAI Hackathon – HappyFox  
-  - Social Hackathon – CMRIT  
-  - AptiCode (2025)  
-
-- **Clubs**:  
-  - Hacker Earth Club — Member & Contributor
 
 ---
 
