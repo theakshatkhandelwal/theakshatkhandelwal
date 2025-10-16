@@ -20,7 +20,7 @@ Aspiring to secure a dynamic role in IT as a software or web developer, where I 
 ### 📚 Education
 
 - **B.E. – Computer Science Engineering**, CMR Institute of Technology, Bangalore  
-  *8.46 CGPA (Pursuing, 2026)*    
+  *8.43 CGPA (Pursuing, 2026)*    
 
 ---
 
